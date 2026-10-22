@@ -78,46 +78,7 @@ I love combining **creativity, technology, design, and business** to build inter
 
 </div>
 
----
-
-## 📊 MY GITHUB STATS
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sarahvsvv&show_icons=true&hide_border=true&bg_color=FFF0F5&title_color=FF1493&icon_color=FF69B4&text_color=8B4963&include_all_commits=false&count_private=false" width="49%"/>
-
-<img src="https://streak-stats.demolab.com?user=sarahvsvv&theme=default&hide_border=true&background=FFF0F5&ring=FF1493&fire=FF69B4&currStreakLabel=DB7093&sideLabels=8B4963&currStreakNum=FF1493&sideNums=FF69B4&dates=DB7093" width="49%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahvsvv&layout=compact&hide_border=true&bg_color=FFF0F5&title_color=FF1493&text_color=8B4963" width="45%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarahvsvv&bg_color=FFF0F5&color=DB7093&line=FF69B4&point=FF1493&area=true&hide_border=true" width="98%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 💌 A LITTLE REMINDER
-
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=17&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=550&lines=Be+your+own+kind+of+beautiful+%E2%99%A1;Your+ideas+deserve+to+exist+%E2%9C%A8;Keep+creating+your+own+magic+%F0%9F%8E%80"/>
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=sarahvsvv&style=for-the-badge&color=FF69B4&label=PROFILE+VISITORS"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,40:FF69B4,70:FF1493,100:FFC0CB&height=140&section=footer&animation=twinkling"/>
-
 **Made with ♡ by Sarah**
 
 </div>
