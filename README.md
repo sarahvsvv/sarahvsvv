@@ -79,6 +79,6 @@ I love combining **creativity, technology, design, and business** to build inter
 </div>
 
 <div align="center">
-**Made with ♡ by Sarah**
+Made with ♡ by Sarah
 
 </div>
