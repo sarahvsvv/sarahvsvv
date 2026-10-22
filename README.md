@@ -76,29 +76,6 @@ I love combining **creativity, technology, design, and business** to build inter
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=FF69B4" width="80%"/>
 
-</div>
-
----
-
-## 📊 MY GITHUB STATS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sarahvsvv&show_icons=true&hide_border=true&bg_color=FFF0F5&title_color=FF1493&icon_color=FF69B4&text_color=8B4963&include_all_commits=false&count_private=false" width="49%"/>
-
-<img src="https://streak-stats.demolab.com?user=sarahvsvv&theme=default&hide_border=true&background=FFF0F5&ring=FF1493&fire=FF69B4&currStreakLabel=DB7093&sideLabels=8B4963&currStreakNum=FF1493&sideNums=FF69B4&dates=DB7093" width="49%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahvsvv&layout=compact&hide_border=true&bg_color=FFF0F5&title_color=FF1493&text_color=8B4963" width="45%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarahvsvv&bg_color=FFF0F5&color=DB7093&line=FF69B4&point=FF1493&area=true&hide_border=true" width="98%"/>
-
-</div>
-
----
 
 <div align="center">
 
