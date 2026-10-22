@@ -1,259 +1,84 @@
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sarah | GitHub Profile</title>
+<div align="center">
 
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,25:FF69B4,50:FF1493,75:DB7093,100:FFC0CB&height=220&section=header&text=SARAH&fontSize=85&fontColor=FFFFFF&fontAlignY=40&animation=twinkling&desc=CREATIVE%20MIND%20%7C%20DIGITAL%20WORLD&descSize=16&descColor=FFFFFF&descAlignY=65"/>
 
-        body {
-            font-family: Arial, sans-serif;
-            background: #ffe6f2;
-            color: #4a2438;
-            min-height: 100vh;
-            padding: 40px 20px;
-        }
+<br/>
 
-        .container {
-            max-width: 900px;
-            margin: auto;
-        }
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=20&duration=2200&pause=700&color=FF69B4&center=true&vCenter=true&width=600&lines=HELLO%2C+WELCOME+TO+MY+WORLD+%E2%99%A1;DESIGNER+%7C+CREATOR+%7C+DREAMER;TURNING+IDEAS+INTO+REALITY;STAY+CREATIVE%2C+STAY+CURIOUS+%E2%9C%A8"/>
 
-        .header {
-            text-align: center;
-            padding: 40px 20px;
-            background: linear-gradient(135deg, #ffb6d9, #f7c8ff);
-            border-radius: 25px;
-            box-shadow: 0 8px 25px #d98bb855;
-        }
+<br/>
 
-        .profile-image {
-            width: 130px;
-            height: 130px;
-            border-radius: 50%;
-            border: 5px solid white;
-            object-fit: cover;
-            margin-bottom: 20px;
-        }
+<img src="https://img.shields.io/badge/♡-CREATIVE-FF69B4?style=for-the-badge&labelColor=FFF0F5"/>
+<img src="https://img.shields.io/badge/✦-EXPLORING-DB7093?style=for-the-badge&labelColor=FFF0F5"/>
+<img src="https://img.shields.io/badge/୨୧-LEARNING-FF1493?style=for-the-badge&labelColor=FFF0F5"/>
 
-        .header h1 {
-            font-size: 36px;
-            margin-bottom: 12px;
-        }
+<br/><br/>
 
-        .header p {
-            font-size: 16px;
-            line-height: 1.7;
-        }
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=FF69B4" width="80%"/>
 
-        .section {
-            background: #fff7fb;
-            padding: 25px;
-            margin-top: 25px;
-            border-radius: 20px;
-            box-shadow: 0 5px 18px #d98bb822;
-        }
+</div>
 
-        .section h2 {
-            color: #d63384;
-            margin-bottom: 15px;
-        }
+## 🎀 ABOUT ME
 
-        .section p {
-            line-height: 1.8;
-        }
+Hi! I'm Sarah, a multimedia graduate and a Sociology Education student at Jakarta State University.
 
-        .skills {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 12px;
-        }
+I love combining **creativity, technology, design, and business** to build interesting digital experiences. My interests include graphic design, web development, video editing, digital marketing, and exploring new technologies.
 
-        .skill {
-            background: #ffd0e6;
-            color: #8b2459;
-            padding: 10px 16px;
-            border-radius: 30px;
-            font-size: 14px;
-            font-weight: bold;
-        }
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=15&duration=2500&pause=800&color=DB7093&width=500&lines=Creating+with+passion+%E2%99%A1;Learning+something+new+every+day;Dream+big.+Create+more.+Keep+growing."/>
 
-        .projects {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-            gap: 15px;
-        }
+---
 
-        .project-card {
-            background: #ffe6f2;
-            border: 1px solid #ffc1df;
-            padding: 20px;
-            border-radius: 15px;
-            transition: 0.3s;
-        }
+## 🌷 CONNECT WITH ME
 
-        .project-card:hover {
-            transform: translateY(-5px);
-            background: #ffd6e9;
-        }
+<div align="center">
 
-        .project-card h3 {
-            color: #c02675;
-            margin-bottom: 10px;
-        }
+<a href="https://instagram.com/sarahvsv">
+<img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://tiktok.com/@sarahvsvv">
+<img src="https://img.shields.io/badge/TikTok-DB7093?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+<a href="https://discord.gg/1284846000325918744">
+<img src="https://img.shields.io/badge/Discord-FF85A2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/zahra-huseinah-6a4275293/">
+<img src="https://img.shields.io/badge/LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:sarahvsvv@gmail.com">
+<img src="https://img.shields.io/badge/Email-DB7093?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-        .project-card p {
-            font-size: 14px;
-        }
+</div>
 
-        .social-links {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 12px;
-            margin-top: 15px;
-        }
+---
 
-        .social-links a {
-            text-decoration: none;
-            background: #e7549b;
-            color: white;
-            padding: 12px 18px;
-            border-radius: 25px;
-            transition: 0.3s;
-        }
+## 💻 MY TECH STACK
 
-        .social-links a:hover {
-            background: #bd347b;
-            transform: scale(1.05);
-        }
+<div align="center">
 
-        .footer {
-            text-align: center;
-            padding: 30px 10px;
-            font-size: 13px;
-            color: #995778;
-        }
+### ♡ Development
 
-        @media (max-width: 600px) {
-            .header h1 {
-                font-size: 28px;
-            }
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,git,github,vscode&theme=light"/>
 
-            body {
-                padding: 20px 12px;
-            }
-        }
-    </style>
-</head>
+<br/>
 
-<body>
-    <div class="container">
+### ♡ Creative Design
 
-        <div class="header">
-            <!-- Ganti URL foto dengan foto kamu -->
-            <img
-                src="sarah-casual.png"
-                alt="Sarah's profile photo"
-                class="profile-image"
-            >
+<img src="https://img.shields.io/badge/Adobe_Photoshop-FF69B4?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Illustrator-FF85A2?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+<img src="https://img.shields.io/badge/Premiere_Pro-DB7093?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
+<img src="https://img.shields.io/badge/After_Effects-FF1493?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lightroom-FF69B4?style=for-the-badge&logo=adobelightroom&logoColor=white"/>
+<img src="https://img.shields.io/badge/InDesign-DB7093?style=for-the-badge&logo=adobeindesign&logoColor=white"/>
 
-            <h1>Hi, I'm Sarah! ♡</h1>
+<br/><br/>
 
-            <p>
-                Multimedia Graduate | Sociology Education Student<br>
-                Interested in Digital Marketing, Design, and Web Development.
-            </p>
-        </div>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=FF69B4" width="80%"/>
 
-        <div class="section">
-            <h2>💗 About Me</h2>
+</div>
 
-            <p>
-                I'm a vocational high school graduate majoring in Multimedia
-                and currently studying Sociology Education at Jakarta State
-                University. I have experience in graphic design, video editing,
-                content creation, and digital marketing. I enjoy learning new
-                skills and creating digital projects.
-            </p>
-        </div>
+<div align="center">
+Made with ♡ by Sarah
 
-        <div class="section">
-            <h2>🎀 Skills</h2>
-
-            <div class="skills">
-                <div class="skill">HTML</div>
-                <div class="skill">CSS</div>
-                <div class="skill">JavaScript</div>
-                <div class="skill">Graphic Design</div>
-                <div class="skill">Video Editing</div>
-                <div class="skill">Digital Marketing</div>
-                <div class="skill">Content Creation</div>
-            </div>
-        </div>
-
-        <div class="section">
-            <h2>🌸 Featured Projects</h2>
-
-            <div class="projects">
-
-                <div class="project-card">
-                    <h3>Interactive Lanyard</h3>
-                    <p>
-                        An interactive 3D-inspired pink lanyard animation
-                        built using HTML, CSS, and JavaScript.
-                    </p>
-                </div>
-
-                <div class="project-card">
-                    <h3>Graphic Design</h3>
-                    <p>
-                        Creative designs including logos, product packaging,
-                        and promotional materials.
-                    </p>
-                </div>
-
-                <div class="project-card">
-                    <h3>Digital Marketing</h3>
-                    <p>
-                        Product photography, promotional videos, and
-                        social media content for businesses.
-                    </p>
-                </div>
-
-            </div>
-        </div>
-
-        <div class="section">
-            <h2>🌐 Connect With Me</h2>
-
-            <p>Let's connect and create something amazing!</p>
-
-            <div class="social-links">
-                <a href="https://github.com/" target="_blank">
-                    GitHub
-                </a>
-
-                <a href="https://www.linkedin.com/" target="_blank">
-                    LinkedIn
-                </a>
-
-                <a href="https://www.instagram.com/" target="_blank">
-                    Instagram
-                </a>
-            </div>
-        </div>
-
-        <div class="footer">
-            <p>Made with ♡ by Sarah | 2026</p>
-        </div>
-
-    </div>
-</body>
-</html>
+</div>
