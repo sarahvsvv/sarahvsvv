@@ -102,22 +102,6 @@ I love combining **creativity, technology, design, and business** to build inter
 
 <div align="center">
 
-## 💌 A LITTLE REMINDER
-
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=17&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=550&lines=Be+your+own+kind+of+beautiful+%E2%99%A1;Your+ideas+deserve+to+exist+%E2%9C%A8;Keep+creating+your+own+magic+%F0%9F%8E%80"/>
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=sarahvsvv&style=for-the-badge&color=FF69B4&label=PROFILE+VISITORS"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,40:FF69B4,70:FF1493,100:FFC0CB&height=140&section=footer&animation=twinkling"/>
-
 **Made with ♡ by Sarah**
 
 </div>
